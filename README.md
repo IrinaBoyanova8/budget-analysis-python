@@ -13,8 +13,8 @@ Este proyecto analiza las desviaciones entre el presupuesto y los gastos reales 
 
 ## ⚙️ Requisitos
 
-txt
 pandas
 numpy
 matplotlib
 seaborn
+HTML

@@ -17,9 +17,10 @@ Este proyecto tiene como objetivo analizar las diferencias entre los gastos pres
 ## 📁 Estructura del repositorio
 
 
+- `Análisis_desviaciones.ipynb`: Notebook con el análisis completo.
+- `Generar_datos csv.ipynb`: Creación de los datos en csv para realizar en análisis.
 - `presupuesto.csv`: Datos presupuestados por departamento y mes.
 - `real.csv`: Datos reales por departamento y mes.
-- `analisis_desviaciones.ipynb`: Notebook con el análisis completo.
 - `README.md`: Este archivo con información general del proyecto.
 
 ---
